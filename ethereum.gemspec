@@ -34,5 +34,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "activesupport", ">= 4.2"
   spec.add_dependency "keccak", "~> 1.3"
-  spec.add_dependency "diges", "~> 1.3.0"
+  spec.add_dependency "digest", "~> 1.3.0"
 end
